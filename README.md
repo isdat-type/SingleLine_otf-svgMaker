@@ -10,9 +10,9 @@ In Illustrator or Indesign (CC 2019 and above), compose your typographic layout,
 
 ## Contributors
 
-[Frederik Berlaen](https://typemytype.com/) Instagram [@typemytype](https://www.instagram.com/typemytype/) / Twitter [@typemytype](https://twitter.com/typemytype)
+[Frederik Berlaen](https://typemytype.com/) Instagram [@typemytype](https://www.instagram.com/typemytype/) Mastodon [@robofont](https://typo.social/@robofont)
 
-[François Chastanet](http://francoischastanet.com/) Instagram [@francois_chastanet](https://www.instagram.com/francois_chastanet/) / Twitter [@f_chastanet](https://twitter.com/f_chastanet)
+[François Chastanet](http://francoischastanet.com/) Instagram [@francois_chastanet](https://www.instagram.com/francois_chastanet/)
 
 
 
